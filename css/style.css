@@ -68,7 +68,7 @@
 }
 
 /* ===================================
-   Scroll Top
+   Scroll Top 
 ====================================== */
 .go-top {
   position: fixed;
@@ -77,7 +77,7 @@
   right: 15px;
   color: #ffffff;
   background-size: 200% auto;
-  background: #33c9dd;
+  background: #78000b;
   border-radius: 50%;
   z-index: 4;
   width: 40px;
@@ -133,7 +133,7 @@
   height: 100%;
   z-index: -1;
   background-size: 200% auto;
-  background: #33c9dd;
+  background: #78000b;
   opacity: 0;
   visibility: hidden;
   -webkit-transition: 0.5s;
@@ -290,7 +290,7 @@ p:last-child {
 }
 a:active,
 a:hover {
-  color: #81a109;
+  color: #78000b;
 }
 li {
   list-style: none;
@@ -317,7 +317,7 @@ section {
   padding: 7.5rem 0;
 }
 ::selection {
-  background-color: #81a109;
+  background-color: #78000b;
   color: #ffffff;
 }
 
@@ -428,14 +428,14 @@ section {
   color: #ffffff;
 }
 .btn.btn-blue:hover {
-  background: #81a109 !important;
-  border-color: #81a109;
+  background: #78000b !important;
+  border-color: #78000b;
   color: #ffffff !important;
 }
 /* Green button */
 .btn.btn-green {
-  background: #81a109;
-  border-color: #81a109;
+  background: #78000b;
+  border-color: #78000b;
   color: #ffffff;
 }
 .btn.btn-green:hover {
@@ -476,7 +476,7 @@ section {
 
 /* Text color */
 .text-green {
-  color: #81a109;
+  color: #78000b;
 }
 .text-blue {
   color: #33c9dd;
@@ -493,7 +493,7 @@ section {
 
 /* Background color */
 .bg-green {
-  background: #81a109;
+  background: #78000b;
 }
 .bg-blue {
   background: #33c9dd;
@@ -1343,7 +1343,7 @@ section {
   width: 60%;
   height: 67%;
   bottom: 1%;
-  background-color: #81a109;
+  background-color: #78000b;
 }
 
 .colored_heading {
@@ -1414,7 +1414,7 @@ section {
 }
 
 .cover:hover .card-title {
-  color: #81a109;
+  color: #78000b;
 }
 
 .cover:hover .versa-effect {
@@ -1476,7 +1476,7 @@ section {
 }
 
 .heading_color {
-  color: #81a109;
+  color: #78000b;
   margin-top: 10px;
   margin-bottom: 10px;
 }
@@ -1748,7 +1748,7 @@ figure.snip0015:hover figcaption::before {
 .counter_plus {
   font-size: 22px;
   font-weight: 900;
-  color: #81a109;
+  color: #78000b;
 }
 .count-title {
   font-size: 30px;
@@ -1759,7 +1759,7 @@ figure.snip0015:hover figcaption::before {
   margin-top: 10px;
   margin-bottom: 0;
   text-align: center;
-  background: -webkit-linear-gradient(170deg, #81a109 20%, #81a109 100%);
+  background: -webkit-linear-gradient(170deg, #78000b 20%, #78000b 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
@@ -1885,18 +1885,18 @@ figure.snip0015:hover figcaption::before {
 }
 
 .owl-testimonial .center .quote_box {
-  background-image: -webkit-linear-gradient(180deg, #81a109 20%, #81a109 100%);
+  background-image: -webkit-linear-gradient(180deg, #78000b 20%, #78000b 100%);
 }
 
 .owl-testimonial .owl-item .testimonial-box:hover {
-  background-color: #81a109;
+  background-color: #78000b;
 }
 .center .testimonial-box:hover:before {
   opacity: 1 !important;
 }
 
 .owl-testimonial .center .testimonial-box:hover .quote {
-  background: -webkit-linear-gradient(180deg, #81a109 60%, #81a109 40%) !important;
+  background: -webkit-linear-gradient(180deg, #78000b 60%, #78000b 40%) !important;
   -webkit-background-clip: text !important;
   -webkit-text-fill-color: transparent !important;
 }
@@ -2381,7 +2381,7 @@ figure.snip0015:hover figcaption::before {
   }
   .center-brand {
     padding: 0;
-    background-color: #81a109;
+    background-color: #78000b;
   }
   .slider-heading {
     font-size: 54px;
@@ -2549,7 +2549,7 @@ figure.snip0015:hover figcaption::before {
 }
 
 #spin-loader {
-  background-color: #81a109;
+  background-color: #78000b;
   height: 100%;
   width: 100%;
   position: fixed;
