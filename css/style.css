@@ -423,8 +423,8 @@ section {
 }
 /* Blue button */
 .btn.btn-blue {
-  background: #33c9dd;
-  border-color: #33c9dd;
+  background: #78000b;
+  border-color: #78000b;
   color: #ffffff;
 }
 .btn.btn-blue:hover {
@@ -439,8 +439,8 @@ section {
   color: #ffffff;
 }
 .btn.btn-green:hover {
-  background: #33c9dd !important;
-  border-color: #33c9dd;
+  background: #78000b !important;
+  border-color: #78000b;
   color: #ffffff !important;
 }
 /* Transparent button */
@@ -450,8 +450,8 @@ section {
   color: #ffffff;
 }
 .btn.btn-trans:hover {
-  background: #33c9dd !important;
-  border-color: #33c9dd;
+  background: #78000b !important;
+  border-color: #78000b;
   color: #ffffff !important;
 }
 
@@ -479,7 +479,7 @@ section {
   color: #78000b;
 }
 .text-blue {
-  color: #33c9dd;
+  color: #78000b;
 }
 .text-black {
   color: #212331;
@@ -496,7 +496,7 @@ section {
   background: #78000b;
 }
 .bg-blue {
-  background: #33c9dd;
+  background: #78000b;
 }
 .bg-black {
   background: #000000;
@@ -518,7 +518,7 @@ section {
 /*Social Icon Hover Bg Hover */
 .social-icon:hover {
   color: #ffffff !important;
-  background: #33c9dd !important;
+  background: #78000b !important;
   -webkit-transition: 0.3s ease-in-out;
   -o-transition: 0.3s ease-in-out;
   transition: 0.3s ease-in-out;
@@ -887,7 +887,7 @@ section {
   position: fixed;
   right: -1px;
   top: 0;
-  background: #33c9dd;
+  background: #78000b;
   z-index: 1032;
   height: 100%;
   -webkit-transform: translate3d(100%, 0, 0);
@@ -1349,7 +1349,7 @@ section {
 .colored_heading {
   font-family: "Open Sans", sans-serif;
   font-size: 18px;
-  color: #33c9dd;
+  color: #78000b;
   margin-bottom: 0;
   letter-spacing: 0;
 }
@@ -1418,7 +1418,7 @@ section {
 }
 
 .cover:hover .versa-effect {
-  color: #33c9dd;
+  color: #78000b;
 }
 
 .cover {
@@ -1576,7 +1576,7 @@ figure.snip0015 {
   position: relative;
   overflow: hidden;
   width: 100%;
-  background-image: -webkit-linear-gradient(190deg, #33c9dd 25%, #33c9dd 50%);
+  background-image: -webkit-linear-gradient(190deg, #78000b 25%, #78000b 50%);
   text-align: center;
 }
 
@@ -1766,7 +1766,7 @@ figure.snip0015:hover figcaption::before {
 .center-blue .counter_plus {
   font-size: 22px;
   font-weight: 900;
-  color: #33c9dd;
+  color: #78000b;
 }
 .center-blue .count-title {
   font-size: 30px;
@@ -1777,7 +1777,7 @@ figure.snip0015:hover figcaption::before {
   margin-top: 10px;
   margin-bottom: 0;
   text-align: center;
-  background: -webkit-linear-gradient(170deg, #33c9dd 20%, #33c9dd 100%);
+  background: -webkit-linear-gradient(170deg, #78000b 20%, #78000b 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
@@ -1869,7 +1869,7 @@ figure.snip0015:hover figcaption::before {
 }
 
 .owl-testimonial .owl-item:not(.center) .testimonial-box:hover {
-  background-color: #33c9dd;
+  background-color: #78000b;
 }
 
 .testimonial-box:hover .quote_box {
@@ -1881,7 +1881,7 @@ figure.snip0015:hover figcaption::before {
 }
 
 .testimonial-box:hover .quote {
-  color: #33c9dd;
+  color: #78000b;
 }
 
 .owl-testimonial .center .quote_box {
@@ -1924,7 +1924,7 @@ figure.snip0015:hover figcaption::before {
   border-radius: 50px;
   width: 60px;
   height: 60px;
-  background: #33c9dd;
+  background: #78000b;
   padding: 15px 10px 10px 14px;
   position: absolute;
   bottom: 83.5%;
@@ -1948,7 +1948,7 @@ figure.snip0015:hover figcaption::before {
   letter-spacing: 0;
 }
 .blue_text {
-  color: #33c9dd;
+  color: #78000b;
 }
 #testimonials .text {
   position: absolute;
@@ -1965,11 +1965,11 @@ figure.snip0015:hover figcaption::before {
 }
 .owl-testimonial .owl-dots .owl-dot.active span,
 .owl-testimonial .owl-dots .owl-dot:hover span {
-  background: #33c9dd;
+  background: #78000b;
 }
 .owl-testimonial .owl-dots .owl-dot span {
   background: white;
-  border: 2px solid #33c9dd;
+  border: 2px solid #78000b;
   font-size: 30px;
   padding: 5px;
   margin: 0 8px;
@@ -2210,7 +2210,7 @@ figure.snip0015:hover figcaption::before {
 }
 .page-breadcrumb li a .icon {
   margin-right: 4px;
-  color: #33c9dd;
+  color: #78000b;
 }
 .page-breadcrumb li a:hover {
   color: #212331;
